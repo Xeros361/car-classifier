@@ -58,6 +58,7 @@ Before training and testing, all data is normalized using Min-Max Scaling to ens
 ## How to run
 
 Run the main script:
+
 $ python main.py
 
 ## Requirements

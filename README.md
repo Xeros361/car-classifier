@@ -55,11 +55,16 @@ There are 2 types of dataset:
 
 Before training and testing, all data is normalized using Min-Max Scaling to ensure that features are on the same scale.
 
-## How to run
+## How to run (Windows)
 
-Run the main script:
-
-$ python main.py
+1. Make sure you have Python 3 installed:
+    $ python --version
+2. Install required library by running:
+    $ pip install pandas
+3. Download or clone the project from GitHub.
+4. Navigate to the project folder and run:
+    $ python main.py
+5. Follow the instructions in the terminal to input car data and classify it.
 
 ## Requirements
 - pandas 

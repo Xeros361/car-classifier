@@ -16,12 +16,12 @@ the model predicts whether the car is sport or non-sport, and provides a probabi
 
 ## Project Structure
 
-- main.py - lets the user input car features and get predictions from the model
-- train.py - trains the model using the provided dataset ('cars.csv')
-- model.py - 
-- data.py - handles data loading, normalization, and processing
-- metrics.py - 
-- user_input.py - manages user interaction
+- 'main.py' - lets the user input car features and get predictions from the model
+- 'train.py' - trains the model using the provided dataset ('cars.csv')
+- 'model.py' - defines the neural network structure and how it makes predictions
+- 'data.py' - handles data loading, normalization, and processing
+- 'metrics.py' - contains simple functions to check how well the model is performing
+- 'user_input.py' - manages user interaction
 
 ---
 
